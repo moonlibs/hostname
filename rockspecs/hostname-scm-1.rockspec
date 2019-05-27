@@ -11,7 +11,7 @@ description = {
 }
 dependencies = {
     'lua >= 5.1';
-    'ffi.reloadable >= 1';
+    'ffi-reloadable >= 1';
 }
 build = {
     type = 'builtin',
