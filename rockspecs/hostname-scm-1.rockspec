@@ -1,7 +1,7 @@
 package = 'hostname'
 version = 'scm-1'
 source  = {
-    url    = 'git://github.com/moonlibs/hostname.git',
+    url    = 'git+https://github.com/moonlibs/hostname.git',
     branch = 'master',
 }
 description = {
